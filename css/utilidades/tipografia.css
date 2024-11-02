@@ -50,6 +50,11 @@
   font: 500 2rem/1.25 "DM Sans", sans-serif;
 }
 
+.font-depoimento {
+  font: 600 2.8rem/1.4 "Italiana", serif;
+  font-style: italic;
+}
+
 .font-1-xxl {
   font: 600 4rem/1.125 "Helvetica", "Arial", sans-serif;
 }
