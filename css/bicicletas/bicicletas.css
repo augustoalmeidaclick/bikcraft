@@ -1,5 +1,5 @@
 .bicicletas-bg {
-  background-image: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0% );
+  background-image: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0%);
 }
 
 .bicicletas {
@@ -83,6 +83,7 @@ p {
     padding-top: 40px;
     padding-bottom: 40px;
   }
+
   .bicicletas-bg {
     background: var(--cor-11);
   }
@@ -92,11 +93,13 @@ p {
   .bicicletas-conteudo {
     grid-template-columns: 1fr;
   }
+
   .bicicletas ul {
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 32px;
     font-size: 1rem;
   }
+
   .bicicletas a {
     place-self: start;
   }
