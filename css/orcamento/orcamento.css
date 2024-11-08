@@ -34,7 +34,7 @@
 }
 
 .orcamento-produto {
-  border-radius: 5px 0px 0px 5px;
+  border-radius: 50px 0px 0px 50px;
   background: var(--cor-12);
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -75,7 +75,7 @@
   box-sizing: border-box;
   width: 12px;
   height: 12px;
-  border: 1px solid var(--cor-6);
+  border: 2px solid var(--cor-6);
   border-radius: 50%;
   margin-right: 8px;
 }
@@ -85,7 +85,7 @@
 }
 .orcamento-produto input:focus + label {
   box-shadow: 0 0 0 2px var(--cor-p1);
-  border: 1px solid var(--cor-12);
+  border: 2px solid var(--cor-12);
 
 }
 .orcamento-produto label span {
@@ -107,7 +107,7 @@
 }
 
 .orcamento-dados {
-  border-radius: 0px 5px 5px 0px;
+  border-radius: 0px 50px 50px 0px;
   background: var(--cor-0);
 }
 

@@ -25,7 +25,7 @@
   display: grid;
   grid-template-columns: 1fr auto;
   border-radius: 5px;
-  border: 1px solid var(--cor-10);
+  border: 2px solid var(--cor-10);
 }
 
 .seguros-item h3 {
