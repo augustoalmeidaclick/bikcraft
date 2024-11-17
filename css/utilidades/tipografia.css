@@ -55,6 +55,11 @@
   font-style: italic;
 }
 
+.font-footer {
+ font: 600 3rem/1.5 "DM Sans", sans-serif;
+ text-transform: uppercase;
+}
+
 .font-1-xxl {
   font: 600 3.5rem/1.125 "Helvetica", "Arial", sans-serif;
 }

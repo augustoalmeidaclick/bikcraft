@@ -1,6 +1,5 @@
 .footer-bg {
   background-color: var(--cor-12);
-  border-top: 2px solid var(--cor-7);
 }
 
 .footer .logo-bikcraft {
@@ -54,9 +53,10 @@
 }
 
 @media (max-width: 800px) {
-  .footer > img {
+  .footer>img {
     display: none;
   }
+
   .footer {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -67,6 +67,7 @@
     grid-template-columns: 1fr;
     gap: 80px;
   }
+
   .footer-copy {
     margin-top: 0px;
   }
